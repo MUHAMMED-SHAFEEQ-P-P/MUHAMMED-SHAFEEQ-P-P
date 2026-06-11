@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Sharjah%2C%20UAE-00897B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-UAE%20%26%20Europe%20Opportunities-FF6F00?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 ---
